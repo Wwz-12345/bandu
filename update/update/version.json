@@ -1,0 +1,8 @@
+{
+  "versionCode": 6,
+  "versionName": "2.2.1",
+  "webCode": 8,
+  "notes": "书库结构重构：一本书一个文件，js/books/index.js 是书目；书架支持多本书。",
+  "apk": "app.apk",
+  "web": "web.zip"
+}
