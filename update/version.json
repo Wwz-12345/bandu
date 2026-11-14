@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "2.1.0",
-  "webCode": 4,
-  "notes": "新增：设置里可以直接修改更新服务器；保留「检查更新 / 更新内容 / 更新应用」三种路径。",
-  "apk": "app-2.1.0.apk",
-  "web": "web-4.zip"
+  "versionCode": 4,
+  "versionName": "2.1.1",
+  "webCode": 5,
+  "notes": "更新服务器已内置为 GitHub Pages，安装后无需任何设置即可检查更新。",
+  "apk": "app-2.1.1.apk",
+  "web": "web-5.zip"
 }
