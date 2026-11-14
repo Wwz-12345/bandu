@@ -1,8 +1,8 @@
 {
   "versionCode": 6,
-  "versionName": "2.2.1",
-  "webCode": 8,
-  "notes": "书库结构重构：一本书一个文件，js/books/index.js 是书目；书架支持多本书。",
+  "versionName": "2.2.2",
+  "webCode": 9,
+  "notes": "新增第二本绘本《三只小猪》：8 页，新插画（小猪、大灰狼、三种房子），含知识卡与问答。",
   "apk": "app.apk",
   "web": "web.zip"
 }
