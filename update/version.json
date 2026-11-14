@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "2.1.0",
+  "webCode": 4,
+  "notes": "新增：设置里可以直接修改更新服务器；保留「检查更新 / 更新内容 / 更新应用」三种路径。",
+  "apk": "app-2.1.0.apk",
+  "web": "web-4.zip"
+}
