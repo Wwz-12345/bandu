@@ -1,8 +1,8 @@
 {
   "versionCode": 6,
-  "versionName": "2.2.0",
-  "webCode": 7,
-  "notes": "更新服务器改为只读展示；版本只显示当前版本；关于改为介绍伴读；内容更新静默完成，只有换安装包时才提示；更新包改为固定文件名覆盖上传。",
+  "versionName": "2.2.1",
+  "webCode": 8,
+  "notes": "书库结构重构：一本书一个文件，js/books/index.js 是书目；书架支持多本书。",
   "apk": "app.apk",
   "web": "web.zip"
 }
